@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Veggie Delight Burger",
+    "type": "veg",
+    "item": "burger",
+    "price": 149,
+    "desc": "A delicious veg burger with fresh lettuce, tomato, and a crispy patty."
+  },
+  {
+    "id": 2,
+    "name": "Spicy Grilled Chicken Burger",
+    "type": "non-veg",
+    "item": "burger",
+    "price": 179,
+    "desc": "A grilled chicken burger with spicy mayo and fresh veggies."
+  },
+  {
+    "id": 3,
+    "name": "Healthy Bean Burger",
+    "type": "veg",
+    "item": "burger",
+    "price": 139,
+    "desc": "A healthy veg burger with whole grain buns and a bean patty."
+  },
+  {
+    "id": 4,
+    "name": "Classic Beef Cheeseburger",
+    "type": "non-veg",
+    "item": "burger",
+    "price": 199,
+    "desc": "A classic beef burger with cheddar cheese and caramelized onions."
+  },
+  {
+    "id": 5,
+    "name": "Vegan Avocado Lentil Burger",
+    "type": "veg",
+    "item": "burger",
+    "price": 159,
+    "desc": "A vegan burger with avocado, sprouts, and a lentil patty."
+  },
+  {
+    "id": 6,
+    "name": "BBQ Chicken Coleslaw Burger",
+    "type": "non-veg",
+    "item": "burger",
+    "price": 189,
+    "desc": "A BBQ chicken burger with coleslaw and smoky sauce."
+  },
+  {
+    "id": 7,
+    "name": "Paneer Tikka Burger",
+    "type": "veg",
+    "item": "burger",
+    "price": 149,
+    "desc": "A paneer tikka burger with fresh mint chutney."
+  },
+  {
+    "id": 8,
+    "name": "Spicy Lamb Burger",
+    "type": "non-veg",
+    "item": "burger",
+    "price": 209,
+    "desc": "A spicy lamb burger with onions and a yogurt dressing."
+  },
+  {
+    "id": 9,
+    "name": "Tofu Sriracha Burger",
+    "type": "veg",
+    "item": "burger",
+    "price": 169,
+    "desc": "A tofu burger with pickled vegetables and sriracha sauce."
+  },
+  {
+    "id": 10,
+    "name": "Crispy Chicken Aioli Burger",
+    "type": "non-veg",
+    "item": "burger",
+    "price": 189,
+    "desc": "A crispy chicken burger with lettuce and garlic aioli."
+  },
+  {
+    "id": 11,
+    "name": "Margherita Pizza",
+    "type": "veg",
+    "item": "pizza",
+    "price": 399,
+    "desc": "A Margherita pizza with fresh basil and mozzarella cheese."
+  },
+  {
+    "id": 12,
+    "name": "Pepperoni Supreme Pizza",
+    "type": "non-veg",
+    "item": "pizza",
+    "price": 499,
+    "desc": "A pepperoni pizza with mozzarella and tomato sauce."
+  },
+  {
+    "id": 13,
+    "name": "Veggie Supreme Pizza",
+    "type": "veg",
+    "item": "pizza",
+    "price": 449,
+    "desc": "A veggie supreme pizza with bell peppers, onions, and mushrooms."
+  },
+  {
+    "id": 14,
+    "name": "Meat Lover's Pizza",
+    "type": "non-veg",
+    "item": "pizza",
+    "price": 549,
+    "desc": "A meat lover's pizza with bacon, sausage, and ham."
+  },
+  {
+    "id": 15,
+    "name": "Mediterranean Veggie Pizza",
+    "type": "veg",
+    "item": "pizza",
+    "price": 399,
+    "desc": "A simple veg pizza with olives, tomatoes, and mozzarella."
+  },
+  {
+    "id": 16,
+    "name": "BBQ Chicken Pizza",
+    "type": "non-veg",
+    "item": "pizza",
+    "price": 599,
+    "desc": "A BBQ chicken pizza with onions and cilantro."
+  },
+  {
+    "id": 17,
+    "name": "Paneer Tikka Pizza",
+    "type": "veg",
+    "item": "pizza",
+    "price": 459,
+    "desc": "A paneer pizza with tikka sauce and green peppers."
+  },
+  {
+    "id": 18,
+    "name": "Seafood Pizza",
+    "type": "non-veg",
+    "item": "pizza",
+    "price": 649,
+    "desc": "A seafood pizza with shrimp and calamari."
+  },
+  {
+    "id": 19,
+    "name": "Spinach and Ricotta Pizza",
+    "type": "veg",
+    "item": "pizza",
+    "price": 499,
+    "desc": "A spinach and ricotta pizza with garlic and olive oil."
+  },
+  {
+    "id": 20,
+    "name": "Buffalo Chicken Pizza",
+    "type": "non-veg",
+    "item": "pizza",
+    "price": 599,
+    "desc": "A buffalo chicken pizza with hot sauce and ranch."
+  },
+  {
+    "id": 21,
+    "name": "Fresh Veggie Sandwich",
+    "type": "veg",
+    "item": "sandwich",
+    "price": 120,
+    "desc": "A fresh vegetable sandwich with cucumbers, tomatoes, and lettuce."
+  },
+  {
+    "id": 22,
+    "name": "Grilled Chicken Sandwich",
+    "type": "non-veg",
+    "item": "sandwich",
+    "price": 180,
+    "desc": "A grilled chicken sandwich with mayo and lettuce."
+  },
+  {
+    "id": 23,
+    "name": "Paneer Tikka Sandwich",
+    "type": "veg",
+    "item": "sandwich",
+    "price": 140,
+    "desc": "A paneer tikka sandwich with spicy chutney."
+  },
+  {
+    "id": 24,
+    "name": "Roast Beef Sandwich",
+    "type": "non-veg",
+    "item": "sandwich",
+    "price": 220,
+    "desc": "A roast beef sandwich with horseradish sauce and caramelized onions."
+  },
+  {
+    "id": 25,
+    "name": "Classic Grilled Cheese Sandwich",
+    "type": "veg",
+    "item": "sandwich",
+    "price": 130,
+    "desc": "A classic grilled cheese sandwich with cheddar and mozzarella."
+  },
+  {
+    "id": 26,
+    "name": "Turkey Club Sandwich",
+    "type": "non-veg",
+    "item": "sandwich",
+    "price": 200,
+    "desc": "A turkey club sandwich with bacon, lettuce, and tomato."
+  },
+  {
+    "id": 27,
+    "name": "Hummus and Veggie Sandwich",
+    "type": "veg",
+    "item": "sandwich",
+    "price": 160,
+    "desc": "A hummus and veggie sandwich with cucumbers, carrots, and spinach."
+  },
+  {
+    "id": 28,
+    "name": "Tuna Melt Sandwich",
+    "type": "non-veg",
+    "item": "sandwich",
+    "price": 210,
+    "desc": "A tuna melt sandwich with cheddar and pickles."
+  },
+  {
+    "id": 29,
+    "name": "Tofu Wrap Sandwich",
+    "type": "veg",
+    "item": "sandwich",
+    "price": 170,
+    "desc": "A tofu wrap sandwich with spicy peanut sauce."
+  },
+  {
+    "id": 30,
+    "name": "Bacon, Lettuce, and Tomato Sandwich",
+    "type": "non-veg",
+    "item": "sandwich",
+    "price": 230,
+    "desc": "A bacon, lettuce, and tomato sandwich with aioli."
+  },
+  {
+    "id": 31,
+    "name": "Fresh Orange Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 80,
+    "desc": "A fresh orange juice made from ripe oranges."
+  },
+  {
+    "id": 32,
+    "name": "Watermelon Mint Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 90,
+    "desc": "A watermelon juice with a touch of mint."
+  },
+  {
+    "id": 33,
+    "name": "Lemon Ginger Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 70,
+    "desc": "A refreshing lemon juice with a hint of ginger."
+  },
+  {
+    "id": 34,
+    "name": "Cold-Pressed Green Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 100,
+    "desc": "A cold-pressed juice with spinach, kale, and cucumber."
+  },
+  {
+    "id": 35,
+    "name": "Pineapple Coconut Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 110,
+    "desc": "A tropical pineapple juice with coconut water."
+  },
+  {
+    "id": 36,
+    "name": "Carrot Apple Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 95,
+    "desc": "A nutritious juice blend of carrots and apples."
+  },
+  {
+    "id": 37,
+    "name": "Mixed Berry Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 120,
+    "desc": "A juice made from a blend of strawberries, blueberries, and raspberries."
+  },
+  {
+    "id": 38,
+    "name": "Cucumber Lime Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 90,
+    "desc": "A refreshing juice with cucumbers and lime."
+  },
+  {
+    "id": 39,
+    "name": "Pomegranate Juice",
+    "type": "veg",
+    "item": "juice",
+    "price": 130,
+    "desc": "A rich pomegranate juice full of antioxidants."
+  },
+  {
+    "id": 40,
+    "name": "Mango Lassi",
+    "type": "veg",
+    "item": "juice",
+    "price": 150,
+    "desc": "A creamy mango yogurt drink."
+  }
+]

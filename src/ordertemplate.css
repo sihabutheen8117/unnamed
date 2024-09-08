@@ -1,0 +1,9 @@
+.top{
+    display : flex ;
+    justify-content: space-between;
+}
+.top-button{
+    width: 10vw;
+    height: 5vh;
+    border-radius: 50px;
+}

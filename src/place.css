@@ -1,0 +1,36 @@
+.place{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap :1rem;
+}
+.number{
+    background-color: black;
+    color:white;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.number:nth-child(odd) {
+    background-color: rgb(9, 9, 138);
+}
+
+.box{
+    box-sizing: border-box;
+    background-image: linear-gradient(145deg, rgb(2, 1, 44) 20%,blue);
+    color : white;
+    height : 30vh;
+    border-radius: 25px;
+    font-size: 2rem;
+    display : flex;
+    flex-direction: column;
+    padding-left: 15vw;
+    padding-top: 3rem;
+    gap : 1rem;
+    font-weight: bold;
+}

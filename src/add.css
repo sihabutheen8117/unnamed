@@ -1,0 +1,13 @@
+.filter{
+    display : flex ;
+    gap : 0.5rem;
+    padding-bottom: 1rem;
+}
+
+.filter div{
+    border-style :solid;
+    border-radius: 20px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-color: blue;
+}
